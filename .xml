@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>home.html</loc>
+  </url>
+  <url>
+    <loc>Movies.html</loc>
+  </url>
+  <url>
+    <loc>New Releases.html</loc>
+  </url>
+  <url>
+    <loc>Trending.html</loc>
+  </url>
+  <url>
+    <loc>Tv Shows.html</loc>
+  </url>
+</urlset>
